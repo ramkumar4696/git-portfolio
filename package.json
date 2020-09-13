@@ -4,11 +4,12 @@
   "private": true,
   "homepage": "https://ramkumar4696.github.com/git-portfolio",
   "dependencies": {
-    "@apollo/client": "^3.0.2",
+    "@apollo/client": "^3.1.5",
     "animate.css": "^3.7.0",
     "apollo-upload-client": "^14.1.0",
     "bootstrap": "^4.5.2",
     "device-agnostic-ui": "^5.1.1",
+    "gh-pages": "^3.1.0",
     "graphql": "^15.3.0",
     "graphql-tag": "^2.11.0",
     "jquery": "^3.5.1",
@@ -32,7 +33,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    
   },
   "eslintConfig": {
     "extends": "react-app"

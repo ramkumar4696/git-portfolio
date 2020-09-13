@@ -22,7 +22,7 @@ const MULTIPLE_UPLOAD_MUTATION = gql`
   }
 `;
 
-const Contact = () => {
+const Contact = ({data}) => {
   const [uploadFileMutation, { loading }] = useMutation(MULTIPLE_UPLOAD_MUTATION);
   const apolloClient = useApolloClient();
   const [file, setFile] = useState(null);
@@ -157,39 +157,22 @@ const Contact = () => {
                     </div>
                     <div className="socials">
                       <ul>
-                        <li>
-                          <a
-                            href="https://codepen.io/kodi24fever/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            <span className="ico-circle">
-                              <i className="ion-social-codepen"></i>
-                            </span>
-                          </a>
-                        </li>
-                        <li>
-                          <a
-                            href="https://github.com/kodi24fever"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            <span className="ico-circle">
-                              <i className="ion-social-github"></i>
-                            </span>
-                          </a>
-                        </li>
-                        <li>
-                          <a
-                            href="https://www.linkedin.com/in/frankizquierdo/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            <span className="ico-circle">
-                              <i className="ion-social-linkedin"></i>
-                            </span>
-                          </a>
-                        </li>
+                        {data && data.social_platform && data.social_platform.map(val=>{
+                          return (
+                            <li>
+                            <a
+                              href={val.link}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className={val.image}></i>
+                              </span>
+                            </a>
+                          </li>
+                          )
+                        })}
+                       
                       </ul>
                     </div>
                   </div>
