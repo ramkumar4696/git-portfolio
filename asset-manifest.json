@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/git-portfolio/static/css/main.b1eccf76.chunk.css",
+    "main.js": "/git-portfolio/static/js/main.1b0d76c9.chunk.js",
+    "main.js.map": "/git-portfolio/static/js/main.1b0d76c9.chunk.js.map",
+    "runtime~main.js": "/git-portfolio/static/js/runtime~main.60e3df85.js",
+    "runtime~main.js.map": "/git-portfolio/static/js/runtime~main.60e3df85.js.map",
+    "static/css/2.902dce5a.chunk.css": "/git-portfolio/static/css/2.902dce5a.chunk.css",
+    "static/js/2.99e08562.chunk.js": "/git-portfolio/static/js/2.99e08562.chunk.js",
+    "static/js/2.99e08562.chunk.js.map": "/git-portfolio/static/js/2.99e08562.chunk.js.map",
+    "index.html": "/git-portfolio/index.html",
+    "precache-manifest.446d064ddaaba415becf322a192160f2.js": "/git-portfolio/precache-manifest.446d064ddaaba415becf322a192160f2.js",
+    "service-worker.js": "/git-portfolio/service-worker.js",
+    "static/css/2.902dce5a.chunk.css.map": "/git-portfolio/static/css/2.902dce5a.chunk.css.map",
+    "static/css/main.b1eccf76.chunk.css.map": "/git-portfolio/static/css/main.b1eccf76.chunk.css.map",
+    "static/media/Spinner.gif": "/git-portfolio/static/media/Spinner.745b7d55.gif",
+    "static/media/stars.scss": "/git-portfolio/static/media/todolist.ac82d97d.png",
+    "static/media/font-awesome.css": "/git-portfolio/static/media/fontawesome-webfont.dcb26c72.ttf",
+    "static/media/ionicons.css": "/git-portfolio/static/media/ionicons.621bd386.svg"
+  }
+}
