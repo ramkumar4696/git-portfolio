@@ -1,7 +1,7 @@
 {
   "name": "Ram Kumar",
   "professionalTitle": ["Designer", "Draughtsman"],
-  "profilePic": "profile1.JPG",
+  "profilePic": "profile1.jpg",
   "logo": "logo1.png",
   "activeLogo": "logo2.png",
   "social_platform": [
@@ -73,57 +73,84 @@
     {
       "name": "Mould Design",
       "description": "Creation of Pattern & Core boxes",
-      "image": "double volute1.JPG",
+      "image": "lower horse collar casting 1.jpg",
       "lists": [
-        { "image": "double volute.JPG", "title": "sample" },
-        { "image": "gate valve body1.JPG", "title": "sample" },
-        { "image": "globe valve1.JPG", "title": "sample" }
+        { "image": "lower horse collar casting 2.jpg", "title": "sample" },
+        { "image": "table casting 1.jpg", "title": "sample" },
+        { "image": "shoe beml.jpg", "title": "sample" },
+        { "image": "volute 4x4x7c 82 cstg 2.jpg", "title": "sample" },
+        { "image": "height block.jpg", "title": "sample" },
+        { "image": "push beml.jpg", "title": "sample" },
+        { "image": "die 1.jpg", "title": "sample" },
+        { "image": "head frame.jpg", "title": "sample" },
+        { "image": "head cover casted.jpg", "title": "sample" },
+        { "image": "end cover.jpg", "title": "sample" },
+        { "image": "centrifugal pump 1.jpg", "title": "sample" },
+        { "image": "compressor head.jpg", "title": "sample" },
+        { "image": "end stud.jpg", "title": "sample" }
       ]
     },
     {
       "name": "Concept Design",
-      "description": "Water Level Indicator",
-      "image": "wli6.JPG",
+      "description": "Water Level Indicator from Scrap",
+      "image": "water level indicator 1.jpg",
       "lists": [
-        { "image": "wli3.JPG", "title": "sample" },
-        { "image": "1.JPG", "title": "sample" },
-        { "image": "ASSEMBLY 3.JPG", "title": "sample" }
+        { "image": "water level indicator 2.jpg", "title": "sample" },
+        { "image": "water level indicator 3.jpg", "title": "sample" },
+        { "image": "water level indicator 4.jpg", "title": "sample" },
+        { "image": "water e indicator.jpg", "title": "sample" }
       ]
     },
     {
       "name": "Reverse Engineering",
-      "description": "Chain Pulley",
-      "image": "CP.JPG",
+      "description": "Pulleys,Gear boxes,Brackets etc",
+      "image": "chain pulley 1.jpg",
       "lists": [
-        { "image": "cp1a.JPG", "title": "sample" },
-        { "image": "cp2.JPG", "title": "sample" },
-        { "image": "cp2a.JPG", "title": "sample" }
+        { "image": "chain pulley 2.jpg", "title": "sample" },
+        { "image": "chain pulley 3.jpg", "title": "sample" },
+        { "image": "gear box 1.jpg", "title": "sample" },
+        { "image": "gear box 2.jpg", "title": "sample" },
+        { "image": "gear box 2a.jpg", "title": "sample" },
+        { "image": "gear box 1a.jpg", "title": "sample" },
+        { "image": "yoke casting.jpg", "title": "sample" },
+        { "image": "compressor head.jpg", "title": "sample" }
       ]
     },
     {
-      "name": "Valve Design",
-      "description": "Ball Valve Assembly",
-      "image": "ball valve2.JPG",
+      "name": "Valves and Accessories",
+      "description": "Gate,Globe,Ball and butterfly valves",
+      "image": "gate valve 1.jpg",
       "lists": [
-        { "image": "ball valve.JPG", "title": "sample" },
-        { "image": "globe valve4.JPG", "title": "sample" },
-        { "image": "gate valve body1.JPG", "title": "sample" }
+        { "image": "globe valve 2.jpg", "title": "sample" },
+        { "image": "yoke casting.jpg", "title": "sample" },
+        { "image": "yoke 1.jpg", "title": "sample" },
+        { "image": "bonnet casting.jpg", "title": "sample" },
+        { "image": "hand wheel.jpg", "title": "sample" },
+        { "image": "lock.jpg", "title": "sample" }
       ]
     },
     {
-      "name": "Die Design",
-      "description": "Core Box Die Assembly",
-      "image": "die1.JPG",
-      "lists": [{ "image": "die2.JPG", "title": "sample" }]
+      "name": "Pumps and Accessories",
+      "description": "Centrifugal and Mono block pumps",
+      "image": "centrifugal pump 1.jpg",
+      "lists": [{ "image": "centrifugal pump 2.jpg", "title": "sample" },
+        { "image": "volute 4x4x7c 82 cstg 1.jpg", "title": "sample" },
+        { "image": "volute 4x4x7c 82 cstg 2.jpg", "title": "sample" },
+        { "image": "centrifugal pump 3.jpg", "title": "sample" },
+        { "image": "mono block pump.jpg", "title": "sample" },
+        { "image": "head cover casted.jpg", "title": "sample" },
+        { "image": "motor pedestal.jpg", "title": "sample" }
+        ]
     },
     {
-      "name": "Travel With Us",
-      "description": "INTO THE FUTURE WORLD",
-      "image": "philips1.JPG",
+      "name": "2D to 3D",
+      "description": "Other components",
+      "image": "bracket.jpg",
       "lists": [
-        { "image": "4.JPG", "title": "sample" },
-        { "image": "abc.JPG", "title": "sample" },
-        { "image": "2.JPG", "title": "sample" }
+        { "image": "bearing housing 1.jpg", "title": "sample" },
+        { "image": "fulcrum.jpg", "title": "sample" },
+        { "image": "home waterlines 1.jpg", "title": "sample" },
+        { "image": "home waterlines 3.jpg", "title": "sample" }
       ]
     }
   ]
